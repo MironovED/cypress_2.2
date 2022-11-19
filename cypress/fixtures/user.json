@@ -1,0 +1,16 @@
+{
+    "id": 112,
+    "username": "keks",
+    "secondUserName": "trololo",
+    "thirdUserName": "fix",
+    "firstName": "Ivan",
+    "secondName": "Nikita",
+    "thirdName": "Danila",
+	"firstLastName": "Ivanov",
+    "secondLastName": "Vasilev",
+    "emailFirst": "mail@mail.ru",
+    "emailSecond": "secondmail@mail.ru",
+	"password": "12345",
+	"phone1": "89009009090",
+    "phone2": "89999999999"
+}
